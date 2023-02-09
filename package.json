@@ -4,8 +4,7 @@
   "description": "API REST como proyecto para un curso de Javascript con NodeJS",
   "main": "index.js",
   "scripts": {
-    "dev": "set DEBUG=app:* & nodemon index.js",
-    "start": "node index.js"
+    "dev": "set DEBUG=app:* & nodemon index.js"
   },
   "keywords": [
     "REST",
